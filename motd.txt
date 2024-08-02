@@ -1,3 +1,4 @@
 v4.6.0 is here! A manual update is required!
 If you have already updated to v4.6.0, enjoy!
 A very special THANK YOU goes to miniduikboot, who fixed the modded servers with great effort!
+If you want to thank mini for creating the modded servers, please consider donating to him!
