@@ -1,4 +1,4 @@
-Happy (belated) New Year!
-We're still working on a fix for the newest update. Unfortunatel we don't have an ETA. :(
+4.7.0 is here! Remember to make a manual update!
+If you encounter any bugs, please share them in our Discord (channel "bug-report"). Thanks!
 A very special THANK YOU goes to miniduikboot, who fixed the modded servers with great effort!
 If you want to thank mini for creating the modded servers, please consider donating to him!
