@@ -1,4 +1,4 @@
-4.7.0 is here! Remember to make a manual update!
+4.8.0 is here! You can update ingame IF you already did the manual installtion for 4.7.0!
 If you encounter any bugs, please share them in our Discord (channel "bug-report"). Thanks!
 A very special THANK YOU goes to miniduikboot, who fixed the modded servers with great effort!
 If you want to thank mini for creating the modded servers, please consider donating to him!
