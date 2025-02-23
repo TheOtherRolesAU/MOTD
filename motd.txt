@@ -2,3 +2,4 @@
 If you encounter any bugs, please share them in our Discord (channel "bug-report"). Thanks!
 A very special THANK YOU goes to miniduikboot, who fixed the modded servers with great effort!
 If you want to thank mini for creating the modded servers, please consider donating to him!
+Try enabling the Role Draft, if you want more control about which role you play
