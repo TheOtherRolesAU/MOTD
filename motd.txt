@@ -1,4 +1,5 @@
-4.8.0 is here! You can update ingame IF you already did the manual installtion for 4.7.0!
+The Update for Vanilla 16.0.0 is not ready yet. Please wait and don't update your TOR installation yet.
+If one of your friends gets a black screen and the game doesn't start, tell them to delete settings.amogus in AmongUs' AppData folder!
 If you encounter any bugs, please share them in our Discord (channel "bug-report"). Thanks!
 A very special THANK YOU goes to miniduikboot, who fixed the modded servers with great effort!
 If you want to thank mini for creating the modded servers, please consider donating to him!
